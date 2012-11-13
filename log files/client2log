@@ -1,0 +1,50 @@
+Script started on Sat 16 Apr 2011 05:13:00 AM PDT
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ script serverlog[6Pman script[2P./clientcc -o client client.c -lpthread
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ cc -o client client.c -lpthread[15Pscript serverlog[6Pman script[K[K[K[K[K[K[K[K[K[K./client
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+fbook.flv
+hello
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>l
+
+List Request Sent to the Server.
+Loading List from the Server. 
+Please Wait..
+
+Files of client 1: -
+
+fbook.flv
+hello
+
+Files of client 2: -
+
+fbook.flv
+hello
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>Receive Download request.
+Uploading /home/lalit/Sample/fbook.flv
+Uploading Finished
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+q
+>]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ exit
+exit
+
+Script done on Sat 16 Apr 2011 05:17:30 AM PDT

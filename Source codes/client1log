@@ -1,0 +1,51 @@
+Script started on Sat 16 Apr 2011 05:12:34 AM PDT
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ cc- [K[K -o client clietn[K[Knt.c -lph[Kthread
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ ./client
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+fbook.flv
+hello
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>l
+
+List Request Sent to the Server.
+Loading List from the Server. 
+Please Wait..
+
+Files of client 1: -
+
+fbook.flv
+hello
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>d
+
+Download Request Sent to the Server.
+Enter client number:2
+Enter filename:
+fbook.flv
+Downloading fbook.flv. Please Wait..
+
+Download finished.
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>q
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ r[Kexit
+exit
+
+Script done on Sat 16 Apr 2011 05:17:25 AM PDT

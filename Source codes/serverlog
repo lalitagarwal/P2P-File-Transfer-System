@@ -1,0 +1,40 @@
+Script started on Sat 16 Apr 2011 05:11:54 AM PDT
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ cc -o server server.c -lpthread
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ ./s[K[K[K[K]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ ./server
+
+Server Ready
+Waiting for clients ..
+
+Connection Established.
+IP Address of Client 1 connected is 10.100.91.59
+Listing the files of Client 1.
+No. of Clients Connected: 1
+
+Waiting for clients ..
+
+
+Got List Request from Client 1
+List sent.
+Connection Established.
+IP Address of Client 2 connected is 10.100.91.59
+Listing the files of Client 2.
+No. of Clients Connected: 2
+
+Waiting for clients ..
+
+
+Got List Request from Client 2
+List sent.
+
+Got Download Request from Client 2
+Client 2 accepted the download request.
+
+
+Client 2 is exiting.
+
+Client 1 is exiting.
+^C
+]0;lalit@ubuntu: ~/Desktop/lalitlalit@ubuntu:~/Desktop/lalit$ exit
+exit
+
+Script done on Sat 16 Apr 2011 05:17:20 AM PDT
